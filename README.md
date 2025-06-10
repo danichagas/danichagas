@@ -7,4 +7,4 @@
 <p>🔠 Intermediate English B1</p>
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,nodejs,nestjs,express,kafka,aws,mysql,mongodb,docker,kubernetes,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,kafka,aws,mysql,mongodb,docker,kubernetes,react)](https://skillicons.dev)
