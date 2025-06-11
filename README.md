@@ -1,10 +1,9 @@
+### Hello there 👋
 
-<code>console.log("Welcome to my github!😆")</code>
-<hr>
+#### A Back-end developer by day ☼ and improving my skills by night ☾
 
-<p>👨‍💻 Backend Developer at <a href="https://compass.uol/pt/home/" target="blank_">Compass UOL</a></p>
-<p>🎓 Bachelor's Degree in Information Systems at <a href="https://ufpa.br/" target="blank_">UFPA</a></p>
-<p>🔠 Intermediate English B1</p>
-<hr>
+Back-end Developer at [Comapass UOL](https://compass.uol/pt/home/)<br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,kafka,aws,mysql,mongodb,docker,kubernetes,react)](https://skillicons.dev)
+- ⚙️ I use daily: `typescript`, `javascript`, `node`, `nestjs`, `docker`, `aws`, `kafka`
+- 🌍 I'm mostly active within the **Microsoft Teams**
+- 💬 Ask me about **technology**, **node**, **sports**, **formula 1**, **motorcycles**
