@@ -1,9 +1,6 @@
-### Hello there 👋
+<p>👨‍💻 Software Engineer at <a href="https://compass.uol/pt/home/" target="blank_">Compass UOL</a></p>
+<p>🎓Studying Information Systems at <a href="https://ufpa.br/" target="blank_">UFPA</a></p>
+<p>🔠 B1 Intermediate English Level</p>
+<hr>
 
-#### A Back-end developer by day ☼ and improving my skills by night ☾
-
-Back-end Developer at [Comapass UOL](https://compass.uol/pt/home/)<br>
-
-- ⚙️ I use daily: `typescript`, `javascript`, `node`, `nestjs`, `docker`, `aws`, `kafka`
-- 🌍 I'm mostly active within the **Microsoft Teams**
-- 💬 Ask me about **technology**, **node**, **sports**, **formula 1**, **motorcycles**
+[![My Skills](https://skillicons.dev/icons?i=typescript,java,nodejs,nestjs,spring,kafka,aws,redis,mysql,docker,mongodb)](https://skillicons.dev)
