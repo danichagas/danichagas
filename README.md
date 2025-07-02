@@ -3,4 +3,4 @@
 <p>🔠 B1 Intermediate English Level</p>
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,nodejs,nestjs,rabbitmq,kafka,aws,redis,mysql,docker,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,nodejs,nestjs,express,rabbitmq,kafka,aws,redis,mysql,docker,mongodb)](https://skillicons.dev)
