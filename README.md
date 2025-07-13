@@ -13,6 +13,7 @@ I have experiencie with the following technologies:
 - PostgreSQL, MySQL and MongoDB;
 - Rest APIs;
 - AWS (Lambda, S3);
+- JUnit and Mockito;
 - Kafka;
 - RabbitMQ;
 - Git;
