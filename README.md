@@ -22,8 +22,4 @@ I have experiencie with the following technologies:
 - Scrum;                                                                         
 
 ### Contact:
-<div> 
-  <a href="https://www.linkedin.com/in/danichagasdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
- <br> <br>
-<div>
+<a href="https://www.linkedin.com/in/danichagasdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
