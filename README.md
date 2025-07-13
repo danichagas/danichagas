@@ -19,7 +19,6 @@ I have experiencie with the following technologies:
 - Git;
 - Docker and Kubernetes;
 - Prometheus and Grafana;
-- ORM(Mongoose);
 - Scrum;                                                                         
 
 ### Contact:
