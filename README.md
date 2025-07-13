@@ -12,13 +12,11 @@ I have experiencie with the following technologies:
 - Maven;
 - PostgreSQL, MySQL and MongoDB;
 - Rest APIs;
-- Node.js;
-- Typescript;
-- Nest.js;
-- Express;
 - AWS (Lambda, S3);
+- Kafka;
+- RabbitMQ;
 - Git;
 - Docker and Kubernetes;
 - Prometheus and Grafana;
-- ORM(Prisma , Sequelize, Mongoose);
+- ORM(Mongoose);
 - Scrum;                                                                         
