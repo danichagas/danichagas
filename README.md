@@ -16,5 +16,6 @@
 - Git;
 - Docker and Kubernetes;
 - ORM(Prisma , Sequelize, Mongoose);
+- MVC;
 - Kafka;
 - RabbitMQ;
