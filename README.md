@@ -17,5 +17,6 @@
 - Docker and Kubernetes;
 - ORM(Prisma , Sequelize, Mongoose);
 - MVC;
+- Redis;
 - Kafka;
 - RabbitMQ;
