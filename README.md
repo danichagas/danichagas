@@ -6,7 +6,7 @@
 
 ### Skills:
 - Node.js;
-- TypeScript;
+- TypeScript and Golang;
 - PostgreSQL, MySQL and MongoDB;
 - Rest APIs;
 - Nest.js;
