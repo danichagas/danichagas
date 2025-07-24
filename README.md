@@ -17,8 +17,7 @@
 - Scrum;
 - Git;
 - Docker and Kubernetes;
-- ORM(Prisma , Sequelize, Mongoose);
+- ORM(Prisma, Mongoose);
 - MVC;
-- Redis;
 - Kafka;
 - RabbitMQ;
