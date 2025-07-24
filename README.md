@@ -7,6 +7,8 @@
 ### Skills:
 - Node.js;
 - Typescript;
+- Ruby;
+- Ruby On Rails;
 - PostgreSQL, MySQL and MongoDB;
 - Rest APIs;
 - Nest.js;
