@@ -1,6 +1,6 @@
 ### Hi! I'm Daniel Chagas 👋
 
-- 👩‍💻 I'm currently working with Node.js and MongoDB
+- 👩‍💻 I'm currently working with Node.js and Express
 - 🧠 I'm currently learning about Ruby and Ruby On Rails
 
 <div>
