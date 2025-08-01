@@ -7,8 +7,6 @@
 <div>
   <a href="https://www.linkedin.com/in/karine-vieira-01886818a/" target="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danichagas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danichagas&layout=compact&langs_count=16&theme=dracula" />
-  </a>
 </div>
 
 ## 🛠 Skills
