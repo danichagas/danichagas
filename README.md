@@ -11,7 +11,7 @@ class Skills < Developer {
   languages = ["Ruby", "Typescript"]
   frameworks = ["Ruby on Rails", "Express", "Nest", "Fastify"]
   databases = ["MongoDB", "PostgreSQL"]
-  technologies = ["Docker"]
+  technologies = ["Docker", "Node.js"]
   cloud = ["AWS"]
 }
 ```
