@@ -1,17 +1,18 @@
-```ruby
+```ts
 import Developer from danichagas;
 
-class AboutMe < Developer {
+class AboutMe extends Developer {
   name = "Daniel Chagas"
   field = "Backend Development"
   work = "Compass UOL"
 }
 
-class Skills < Developer {
-  languages = ["Ruby", "Typescript"]
-  frameworks = ["Ruby on Rails", "Express", "Nest", "Fastify"]
+class Skills extends Developer {
+  languages = ["Javascript", "Typescript"]
+  frameworks = ["Express", "Nest", "Fastify"]
   databases = ["MongoDB", "PostgreSQL"]
-  technologies = ["Docker", "Node.js"]
+  technologies = ["Docker", "Node.js", "Kubernates"]
+  messenger = ["Kafka", "RabbitMQ"]
   cloud = ["AWS"]
 }
 ```
