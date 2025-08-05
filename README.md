@@ -10,7 +10,7 @@ class AboutMe extends Developer {
 class Skills extends Developer {
   languages = ["Ruby", "Typescript"]
   frameworks = ["Ruby on Rails", "Express", "Nest", "Fastify"]
-  databases = ["MongoDB", "PostgreSQL", "Redis"]
+  databases = ["MongoDB", "PostgreSQL"]
   technologies = ["Docker", "Node.js", "Kubernates", "Zod"]
   messenger = ["Kafka", "RabbitMQ"]
   cloud = ["AWS"]
