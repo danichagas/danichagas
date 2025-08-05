@@ -8,8 +8,8 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  languages = ["Javascript", "Typescript"]
-  frameworks = ["Express", "Nest", "Fastify"]
+  languages = ["Ruby", "Typescript"]
+  frameworks = ["Ruby on Rails", "Express", "Nest", "Fastify"]
   databases = ["MongoDB", "PostgreSQL", "Redis"]
   technologies = ["Docker", "Node.js", "Kubernates", "Zod"]
   messenger = ["Kafka", "RabbitMQ"]
