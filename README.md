@@ -8,12 +8,12 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  languages = ["Typescript", "C#"]
-  frameworks = [".NET", "LINQ", "Express", "Nest", "Fastify"]
+  languages = ["Typescript"]
+  frameworks = ["Express", "Nest", "Fastify"]
   databases = ["MongoDB", "PostgreSQL"]
   ORMS = ["Mongoose", "Prisma"]
   technologies = ["Docker", "Node.js", "Kubernates", "Zod"]
   messenger = ["Kafka", "RabbitMQ"]
-  cloud = ["AWS", "Azure"]
+  cloud = ["AWS"]
 }
 ```
