@@ -5,4 +5,4 @@
   I am passionate about building efficient, scalable and well-structured solutions, always seeking good development practices, systems architecture and APIs.
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,aws,docker,kubernetes)](https://skillicons.dev)
