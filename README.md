@@ -6,4 +6,4 @@ I began my journey in technology when I was just 16 years old. Since then, I've 
 I managed to get into college at just 16 years old, I am currently studying Information Systems at the Federal University of Pará (UFPA).
 
 ## Skills
-![tech stack](https://skillicons.dev/icons?i=java,spring,aws,docker,hibernate,maven,rabbitmq,kafka,ts,nodejs,nestjs,express,mongodb,idea&perline=7)
+![tech stack](https://skillicons.dev/icons?i=java,spring,aws,docker,hibernate,maven,rabbitmq,kafka,ts,nodejs,nestjs,express,mongodb,kubernetes&perline=7)
