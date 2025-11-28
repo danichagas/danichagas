@@ -3,4 +3,4 @@
 <p>🎓 Bachelor's degree in Information Systems <a href="https://ufpa.br/" target="blank_">Universidade Federal do Pará</a></p>
 <p>🔠 B1 English Level</p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,rabbitmq,aws,postgresql,mysql,docker,maven,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,spring,typescript,rabbitmq,aws,postgresql,mysql,docker,mongodb)](https://skillicons.dev)
