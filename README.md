@@ -1,5 +1,5 @@
 
-<p>👨‍💻 Software Engineer</p>
+<p>👨‍💻 Backend Developer</p>
 <p>🎓 Bachelor's degree in Information Systems <a href="https://ufpa.br/" target="blank_">Universidade Federal do Pará</a></p>
 <p>🔠 B1 English Level</p>
 
