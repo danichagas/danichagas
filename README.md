@@ -11,6 +11,6 @@ class Skills extends Developer {
   String languagens[] = {"Java", "Typescript"};
   String frameworks[] = {"Spring", "Nest.js"};
   String cloudAndDevops = {"AWS", "Docker"};
-  String databases[] = {"MongoDB", "PostgreSQL"};
+  String databases[] = {"MongoDB", "MySQL"};
 }
 ```
