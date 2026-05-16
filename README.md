@@ -29,13 +29,3 @@
 ![](https://img.shields.io/badge/Code-Nextjs-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-
-<br>
-<h3>Statistical Data :-</h3>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danichagas&showicons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=main-c&show_icons=true&theme=buefylangs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Dynamic Quotes 📜:
-![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle)
