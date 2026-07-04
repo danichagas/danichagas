@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, i'm Daniel Chagas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h4 align="center">Also known as "dani" to other people.
-<h3 align="center">Tech Enthusiast, Information Systems Student and JS lover </h3>
+<h3 align="center">Tech Enthusiast, Information Systems Student and Java lover </h3>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 - 🌱 I’m currently learning backend developement
