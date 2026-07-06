@@ -18,9 +18,4 @@
 
 <h3 align="left">Languages and Frameworks:</h3>
 
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Nestjs-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,docker,nodejs,postgresql,mysql,mongodb)](https://skillicons.dev)
