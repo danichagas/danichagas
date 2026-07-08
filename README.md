@@ -18,4 +18,4 @@
 
 <h3 align="left">Languages and Frameworks:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,docker,nodejs,postgresql,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,spring,aws,docker,nodejs,postgresql,mysql,mongodb)](https://skillicons.dev)
