@@ -8,7 +8,6 @@
 
 - ⚡ Fun fact :- Movies & Series🎥 Music🎵 are the reasons to live.
 
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/danichagasdev/" target="blank"><img align="center"
