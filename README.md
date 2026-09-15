@@ -17,4 +17,4 @@
 
 <h3 align="left">Technologies:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,ts,aws,docker)](https://skillicons.dev)
