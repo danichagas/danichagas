@@ -15,6 +15,6 @@
       alt="adam pithewan" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Frameworks:</h3>
+<h3 align="left">Technologies:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,ts)](https://skillicons.dev)
