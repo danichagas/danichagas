@@ -17,4 +17,4 @@
 
 <h3 align="left">Technologies:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nest,java,spring,aws,docker,postgresql,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nest,java,spring,aws,docker,postgresql,mysql,mongodb)](https://skillicons.dev)
