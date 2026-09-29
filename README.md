@@ -1,9 +1,9 @@
 <h1 align="center">Hey there, i'm Daniel Chagas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h4 align="center">Also known as "dani" to other people.
-<h3 align="center">Tech Enthusiast, Information Systems Student and Java lover </h3>
+<h3 align="center">Tech Enthusiast, Information Systems Student and JS lover </h3>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="280" width="280" /></p>
 
-- 🌱 I’m currently learning backend developement
+- 🌱 I’m currently learning fullstack developement
 - 📫 How to reach me **chagasdaniel788@gmail.com**
 
 - ⚡ Fun fact :- Movies & Series🎥 Music🎵 are the reasons to live.
@@ -17,4 +17,4 @@
 
 <h3 align="left">Technologies:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,aws,docker,postgresql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nest,react,java,aws,docker,postgresql,mongodb)](https://skillicons.dev)
