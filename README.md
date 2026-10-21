@@ -1,20 +1,12 @@
 <h1 align="center">Hey there, i'm Daniel Chagas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h4 align="center">Also known as "dani" to other people.
-<h3 align="center">Tech Enthusiast, Information Systems Student and Java lover </h3>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="280" width="280" /></p>
+<h3 align="center">Tech Enthusiast, Information Systems Student and javascript lover </h3>
 
-- 🌱 I’m currently learning backend developement
+- 🌱 I’m currently learning fullstack developement
 - 📫 How to reach me **chagasdaniel788@gmail.com**
-
+- 👋 [My linkedin](https://www.linkedin.com/in/danichagasdev/?isSelfProfile=true)
 - ⚡ Fun fact :- Movies & Series🎥 Music🎵 are the reasons to live.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/danichagasdev/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Technologies:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,aws,docker,postgresql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nestjs,express,gulp,bootstrap,vue,mysql,mongodb,webpack)](https://skillicons.dev)
