@@ -9,4 +9,4 @@
 
 <h3 align="left">Technologies:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nestjs,express,gulp,bootstrap,vue,mysql,mongodb,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,vue,nestjs,express,gulp,bootstrap,mysql,mongodb,webpack)](https://skillicons.dev)
