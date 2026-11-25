@@ -9,4 +9,4 @@
 
 <h3 align="left">Technologies:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,aws,maven,nodejs,nestjs,express,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,aws,maven,nodejs,nestjs,postgres,mysql,mongodb)](https://skillicons.dev)
